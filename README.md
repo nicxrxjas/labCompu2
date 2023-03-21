@@ -13,6 +13,6 @@ Prueba de markdown
 | Nicolás | Rojas    | rojasnico641@gmail.com | 3525553916 |
 
 ### Aula virtual
-[Aula virtual] (https://presencial.ucc.edu.ar/course/view.php?id=9253)
+[Aula virtual]:(https://presencial.ucc.edu.ar/course/view.php?id=9253)
 
 :octocat:
